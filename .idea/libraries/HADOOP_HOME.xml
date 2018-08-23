@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="HADOOP_HOME">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://C:/hadoop-2.8.3/bin" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
